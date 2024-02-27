@@ -3,6 +3,11 @@
 ## Introduction
 This project focuses on analyzing semantic text similarity using natural language processing (NLP) techniques. The goal is to determine the degree of similarity between pairs of text documents, with potential applications in information retrieval, recommendation systems, and plagiarism detection.
 
+## Note
+Semantic Textual Similarity (STS) assesses the degree to which two sentences are semantically equivalent to each other.
+ - 1 means highly similar
+ - 0 means highly dissimilar
+
 ## Installation
 To run the code, ensure you have Python installed on your system along with the following dependencies:
 - pandas
