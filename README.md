@@ -1,3 +1,5 @@
+# Semantic-Text-Similarity using-NLP and Benchmarking
+
 ## Introduction
 This project focuses on analyzing semantic text similarity using natural language processing (NLP) techniques. The goal is to determine the degree of similarity between pairs of text documents, with potential applications in information retrieval, recommendation systems, and plagiarism detection.
 
